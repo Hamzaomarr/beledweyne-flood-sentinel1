@@ -1,0 +1,22 @@
+{
+ "flag_10m_km2": 51.1626,
+ "flag_10m_averaged_to_20m_km2": 51.1595,
+ "flag_10m_subsampled_20m_km2_by_offset": [
+  51.1564,
+  51.188,
+  51.1172,
+  51.1764
+ ],
+ "inputs_sampled_at_20m_filter_5x5_km2_by_offset": [
+  45.6924,
+  45.6816,
+  45.7892,
+  45.6716
+ ],
+ "window_at_10m_km2_by_window_pixels": {
+  "3": 59.8123,
+  "5": 51.1626,
+  "9": 45.5786,
+  "11": 44.8387
+ }
+}

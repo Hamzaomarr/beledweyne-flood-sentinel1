@@ -1,0 +1,6 @@
+configuration,flagged_km2_town_extent
+"Earth Engine, 10 m grid",51.16287938050044
+"Earth Engine, 20 m grid",45.741409955934145
+"Earth Engine, 30 m grid",45.002097886213924
+"Earth Engine, inputs reprojected to 10 m, 20 m grid",45.72540057341569
+"Local Python, 10 m",51.163

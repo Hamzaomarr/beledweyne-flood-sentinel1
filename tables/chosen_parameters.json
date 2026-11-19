@@ -1,0 +1,15 @@
+{
+  "rule": "dVV OR dVH",
+  "pre": "mean_9&21Oct",
+  "filt": 5,
+  "tVV": 4.0,
+  "tVH": 2.5,
+  "dVV_only": {
+    "pre": "mean_9&21Oct",
+    "filt": 5,
+    "tVV": 2.5
+  },
+  "dark_cutoff": -16.0,
+  "min_cluster_px": 100,
+  "min_cluster_rule": "smallest size within 0.005 kappa of the best on the Pleiades calibration date, 8-connected"
+}

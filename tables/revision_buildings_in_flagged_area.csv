@@ -1,0 +1,9 @@
+item,count,pct_of_analysed_area_buildings
+Buildings in the study area,62829,
+Buildings in the analysed area,60913,100.0
+Buildings with centroid pixel flagged on 14Nov,5337,8.761676489419337
+Buildings with a flagged pixel within 1 pixel on 14Nov,8149,13.378096629619293
+Buildings with centroid pixel flagged on 26Nov,4704,7.722489452169488
+Buildings with a flagged pixel within 1 pixel on 26Nov,7062,11.593584292351386
+Buildings with centroid pixel flagged on 8Dec,2010,3.299788222546911
+Buildings with a flagged pixel within 1 pixel on 8Dec,3254,5.342045212023706

@@ -1,0 +1,9 @@
+variant,flooded_km2_14Nov,flooded_km2_14Nov_no_cluster_filter
+main (calibrated),225.8373,396.37440000000004
+no dark exclusion,227.2561,399.2713
+no HAND/slope mask,229.2974,464.7164
+pre = 21 Oct only,573.7614,901.8207
+pre = 9 Oct only,185.1147,291.80760000000004
+3x3 filter,244.4281,633.8896000000001
+dVV-only rule (-2.5 dB),210.30880000000002,282.7498
+"paper-style fixed -2.0/-1.5, no filter",2187.8042,2277.3695000000002

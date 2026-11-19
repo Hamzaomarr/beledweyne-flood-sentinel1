@@ -1,0 +1,5 @@
+p = r'.\scripts\60_full_audit.py'
+s = open(p, encoding='utf-8').read()
+s = s.replace("'No fabricated, retracted or non-existent references were found. All 34 DOIs resolve and match the cited work.',", "'Most serious. The built-up class is only weakly supported by independent building footprints, so the built-up exposure share is indicative and probably overstates exposure of settlements. The Abstract, Results, Discussion and Conclusion now say so.',\n'No fabricated, retracted or non-existent references were found. All 37 DOIs resolve and match the cited work, and the Open Buildings reference is a preprint.',")
+s = s.replace("'Open. The 21 October pre-event scene gives a flagged area of 573.8 km² against 185.1 km² for 9 October, and the cause is unexplained. The Discussion says so.',", "'Open. The October pre-event difference is now characterised, with 9 October the scene that differed and rainfall a plausible but untested cause. No soil moisture data were used.',")
+open(p, 'w', encoding='utf-8', newline='').write(s)

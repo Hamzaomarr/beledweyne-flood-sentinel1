@@ -1,0 +1,12 @@
+{
+ "missing_km2_in_study_area": 0.0,
+ "missing_pct_of_study_area": 0.0,
+ "missing_in_analysed_area_km2": 0.0,
+ "missing_in_permanent_water_km2": 0.0,
+ "flagged14_in_missing_km2": 0.0,
+ "flagged26_in_missing_km2": 0.0,
+ "analysed_without_missing_km2": 3692.4922,
+ "flagged14_without_missing_km2": 225.8373,
+ "flagged26_without_missing_km2": 275.09340000000003,
+ "missing_pixels_10m": 0.0
+}
